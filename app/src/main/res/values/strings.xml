@@ -12,4 +12,12 @@
     <string name="confirm_email">Email:</string>
     <string name="confirm_description">"Description: "</string>
     <string name="edit_date">Edit Data</string>
+    <string name="pname">CompletName</string>
+    <string name="pphone">Phone</string>
+    <string name="pemail">Email</string>
+    <string name="pcontact_description">Contact Description</string>
+    <string name="pdatepicker">Datepicker</string>
+    <string name="birthdate">Birthdate:</string>
+    <string name="edit_data">Edit Data</string>
+
 </resources>
