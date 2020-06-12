@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Week_Two</string>
+    <string name="nombre">Complet Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="description">Contact Description</string>
+    <string name="textButtonClick">Next</string>
+    <string name="confirmar_datos">Confirm Data</string>
+    <string name="name">Name:</string>
+    <string name="confirm_date">Birthdate:</string>
+    <string name="confirm_phone">Phone:</string>
+    <string name="confirm_email">Email:</string>
+    <string name="confirm_description">"Description: "</string>
+    <string name="edit_date">Edit Data</string>
 </resources>
