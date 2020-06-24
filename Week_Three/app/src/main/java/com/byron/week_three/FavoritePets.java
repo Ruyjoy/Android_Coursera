@@ -71,7 +71,6 @@ public class FavoritePets extends AppCompatActivity {
       favoritePetsList.add(new FavoritePetsList("Luna","0",   R.drawable.dog_8,   R.drawable.hueso_raiting, R.drawable.hueso_like));
       favoritePetsList.add(new FavoritePetsList("Raiter","0", R.drawable.dog_2,   R.drawable.hueso_raiting, R.drawable.hueso_like));
       favoritePetsList.add(new FavoritePetsList("Lucas","0",  R.drawable.dog_1,   R.drawable.hueso_raiting, R.drawable.hueso_like));
-      favoritePetsList.add(new FavoritePetsList("Lucas","0",  R.drawable.dog_1,   R.drawable.hueso_raiting, R.drawable.hueso_like));
 
     }
 
