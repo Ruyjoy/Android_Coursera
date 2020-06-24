@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <dimen name="title">150dp</dimen>
+    <dimen name="elevation_cardview">4dp</dimen>
+    <dimen name="hueso_like">50dp</dimen>
+    <dimen name="label_name">10dp</dimen>
+    <dimen name="text_center">130dp</dimen>
+    <dimen name="height_pet">230dp</dimen>
+    <dimen name="label_recycler">15dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
